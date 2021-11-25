@@ -97,7 +97,7 @@ When new person is detected, a message is delivered to the user.
 When the person is detected again, a message is delivered to the user.
 
 <p align="center">
-   <img src="png/appeared_again.png">
+   <img src="png/apperaed_again.png">
 </p>
 
 ## status
